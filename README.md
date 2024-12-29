@@ -31,9 +31,9 @@ Step 5 : use an IDE (like IDLE) to open the 3 .py files and
 
 Step 6 : Run the scripts
 - Through your Terminal, go to the folder where your 3 .py files are saved
-- Type+Enter : "python3 Exctract_own_collection.py"
-- Type+Enter : "python3 Exctract_listings_bid.py"
-- Type+Enter : "python3 Exctract_names.py"
+- Type+Enter : "python3 Extract_own_collection.py"
+- Type+Enter : "python3 Extract_listings_bid.py"
+- Type+Enter : "python3 Extract_names.py"
 
 Finally, if no errors, an excel file should have been created in the same folder with the 3 corresponding sheets.
 
